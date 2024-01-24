@@ -1,0 +1,17 @@
+﻿  Web Crawler.cpp
+C:\Users\Eddie\source\repos\Web Crawler\Web Crawler\Web Crawler.cpp(21,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Web%20Crawler.cpp')
+  
+C:\Users\Eddie\source\repos\Web Crawler\Web Crawler\Web Crawler.cpp(32,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Web%20Crawler.cpp')
+  
+C:\Users\Eddie\source\repos\Web Crawler\Web Crawler\Web Crawler.cpp(39,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Web%20Crawler.cpp')
+  
+C:\Users\Eddie\source\repos\Web Crawler\Web Crawler\Web Crawler.cpp(46,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Web%20Crawler.cpp')
+  
+C:\Users\Eddie\source\repos\Web Crawler\Web Crawler\Web Crawler.cpp(57,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/Web%20Crawler.cpp')
+  
+  Web Crawler.vcxproj -> C:\Users\Eddie\source\repos\Web Crawler\x64\Debug\Web Crawler.exe
